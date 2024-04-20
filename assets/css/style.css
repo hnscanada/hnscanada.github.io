@@ -10,8 +10,8 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
-  color: #444444;
+  font-family: "Nitti Light", Helvetica, sans-serif;
+  color: black;
 }
 
 a {
@@ -30,9 +30,13 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: "Archivo", sans-serif;
 }
 
+p {
+  font-family: "Nitti Light", sans-serif;
+  color:black;
+}
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -182,7 +186,7 @@ h6 {
   justify-content: space-between;
   padding: 10px 0 10px 30px;
   font-size: 14px;
-  color: #16507b;
+  color: black;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -420,14 +424,15 @@ h6 {
   font-size: 56px;
   font-weight: 700;
   line-height: 72px;
-  color: #124265;
-  font-family: "Poppins", sans-serif;
+  color: blacks;
+  font-family: "Archivo", sans-serif;
 }
 
 #hero h2 {
   color: #5e5e5e;
   margin: 10px 0 0 0;
   font-size: 22px;
+  font-family: "Archivo", sans-serif;
 }
 
 #hero .btn-get-started {
@@ -470,7 +475,7 @@ h6 {
 }
 
 #hero .icon-box .title a {
-  color: #124265;
+  color: black;
   transition: 0.3s;
 }
 
@@ -549,13 +554,13 @@ section {
   text-transform: uppercase;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #124265;
+  color: black;
 }
 
 .section-title p {
   margin-bottom: 0;
   font-size: 14px;
-  color: #919191;
+  color: #777777;
 }
 
 /*--------------------------------------------------------------
@@ -632,17 +637,17 @@ section {
   line-height: 48px;
   display: block;
   font-weight: 700;
-  color: #124265;
+  color: black;
   margin-left: 80px;
   margin: auto;
 }
 
 .counts .count-box p {
   padding: 8px 0 0 0;
-  font-family: "Raleway", sans-serif;
+  font-family: "Nitti Light", Helvetica, sans-serif;
   font-weight: 600;
   font-size: 14px;
-  color: #1e6ca6;
+  color: black;
 }
 
 /*--------------------------------------------------------------
@@ -924,7 +929,7 @@ section {
 }
 
 .services .icon-box h4 a {
-  color: #124265;
+  color: black;
   transition: ease-in-out 0.3s;
 }
 
@@ -1326,21 +1331,21 @@ section {
   font-weight: 700;
   margin-bottom: 5px;
   font-size: 18px;
-  color: #124265;
+  color: black;
 }
 
 .team .member .member-info span {
   display: block;
   font-size: 13px;
   font-weight: 400;
-  color: #aaaaaa;
+  color: #777777;
 }
 
 .team .member .member-info p {
   font-style: italic;
   font-size: 14px;
   line-height: 26px;
-  color: #777777;
+  color: black;
 }
 
 .team .member:hover .social {
@@ -1742,7 +1747,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  color: #444444;
+  color: black;
   font-size: 14px;
   background: #f8fbfe;
   box-shadow: 0px 2px 15px rgba(18, 66, 101, 0.08);
@@ -1769,8 +1774,8 @@ section {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Raleway", sans-serif;
-  color: #777777;
+  font-family: "Nitti Light", Helvetica, sans-serif;
+  color: black;
 }
 
 #footer .footer-top h4 {
@@ -1809,7 +1814,7 @@ section {
 }
 
 #footer .footer-top .footer-links ul a {
-  color: #777777;
+  color: black;
   transition: 0.3s;
   display: inline-block;
   line-height: 1;
